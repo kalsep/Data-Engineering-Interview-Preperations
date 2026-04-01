@@ -1,0 +1,17 @@
+anagrams grouping 
+I/p: ['eat','ate','tea','bat','pat','tap']
+o/p: [['eat,ate','tea'],['bat'],['pat','tap']]
+
+rangeBetween(stand,ends) and Rowsbetween()
+CSV & parquet 
+DAG
+DPU
+CDC 
+chekpointing
+Serialisation
+Skewed Data in Spark
+Accumerlator
+Boractaing
+DynamoDB - Partation Key, SortKey
+			
+ 
