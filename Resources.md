@@ -5,3 +5,8 @@ https://codefarm0.medium.com/dynamodb-interview-questions-answers-categorized-by
 
 ## PYSPARK
 https://github.com/OBenner/data-engineering-interview-questions/blob/master/content/spark.md
+
+
+
+## Pyspark Crash Course
+[text](https://www.youtube.com/watch?v=6T8SeQuqz1s)
